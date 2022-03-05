@@ -80,6 +80,7 @@ body {
   h2 {
       font-size: 2rem;
       padding-left: 2rem;
+      margin: auto;
   }
 
   p {
