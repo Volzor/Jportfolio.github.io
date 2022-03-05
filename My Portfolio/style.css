@@ -67,6 +67,7 @@ body {
     margin-left: 2rem;
 }
 
+
 /* for desktop size */
 @media screen and (min-width: 800px) { 
   h1 {

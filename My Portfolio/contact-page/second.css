@@ -6,3 +6,11 @@ body {
     display: grid;
     place-items: center;
 }
+
+p {
+    font-size: 1.5rem;
+}
+
+h3 {
+    justify-self: left;
+}
