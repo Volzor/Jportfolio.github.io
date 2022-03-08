@@ -1,0 +1,33 @@
+html {
+    font-family: 'Smooch Sans', sans-serif;
+    height: auto;
+    width: auto;
+} 
+
+body {
+    background-color: black;
+    background-size: 100%;
+    color: #fff;
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    padding-top: 10rem;
+    z-index: 1;
+}
+
+button {
+    z-index: 1;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+#overlay {
+    background: linear-gradient(lightgray, black);
+    opacity: .7;
+    height: 400px;
+    width: 100%;
+    position: absolute;
+}

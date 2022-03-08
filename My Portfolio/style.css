@@ -30,7 +30,7 @@ body {
     padding: 10px;
     list-style: none;
     border-radius: 10%;
-    background: linear-gradient(45deg, black, lightgray);
+    background: linear-gradient(45deg, #000, lightgray);
 }
 
 #nav-container a {
@@ -38,6 +38,7 @@ body {
     color: #fff;
     font-size: 1.5rem;
 }
+
 
 
 /* About Me section in body */
