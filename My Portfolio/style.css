@@ -100,4 +100,21 @@ body {
     margin-left: 8rem;
 }
 
+/* experimental animation to make icons spin */
+.icon {
+    animation: spin 3s linear 1s infinite;
+}
+/* spin animation keyframes specifications */
+@keyframes spin {
+   0% {
+    transform: rotate(0deg);
+   }
+   50% {
+    transform: rotate(180deg);
+   }
+   100% {
+       transform: rotate(360deg);
+   }
+}
+
 };
